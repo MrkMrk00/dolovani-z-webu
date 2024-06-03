@@ -1,1 +1,4 @@
+lxml
+requests
 autoscraper
+cssselect

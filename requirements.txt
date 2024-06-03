@@ -2,3 +2,6 @@ lxml
 requests
 autoscraper
 cssselect
+uvicorn[standard]
+fastapi
+python-slugify

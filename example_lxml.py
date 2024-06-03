@@ -1,6 +1,6 @@
+from pprint import pprint
 import lxml.html
 import requests
-from pprint import pprint
 
 def scrape_related_products():
     url = 'https://pc.bazos.cz/inzerat/186496336/dotykovy-notebook-124-microsoftintel-i5-1235u16gb-ram.php'
@@ -14,3 +14,4 @@ def scrape_related_products():
 
 if __name__ == '__main__':
     scrape_related_products()
+
